@@ -1,0 +1,58 @@
+/*
+Theme Name:     divi child
+Description:    
+Author:         vladuxs1@gmail.com
+Template:       Divi
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+
+#top-header {
+     display:none; 
+}
+
+.et_pb_widget ul li:hover {
+    background-color:#E1ECF3;
+    border-radius: 5px;
+   
+}
+.et_pb_widget ul a:hover {
+    color: #434374;
+}
+
+
+#top-menu {
+    
+    margin-right: 300px;
+}
+
+.et_pb_scroll_top.et-visible {
+    margin-right: 50px;
+    border-radius: 8px;
+    background-color: #9BA0F9;
+}
+
+element.style {
+    border: 1px solid black;
+}
+
+#slider_388 .owl-item {
+    width: :400px;
+    height: 400px;
+}
+
+.et_pb_slide_image img {
+    
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
